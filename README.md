@@ -5,15 +5,6 @@
   
 # hanyong    
    
-### ⭐ Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quence1151&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📊 Used Language Ratio
-[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quence1151&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
-
-### 💻 Algorithm Repository 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgksdyd1151)](https://solved.ac/dlgksdyd1151) <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quence1151&repo=JavaAndAlgorithms&theme=dark&cache_seconds=1800)](https://github.com/Quence1151/JavaAndAlgorithms)
  
 ### 🔨 Stack
 <p>
@@ -42,8 +33,17 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>  
 
+### ✍🏻 github
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quence1151&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📊 Used Language Ratio
+[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quence1151&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
 
+### 💻 Algorithm Repository 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgksdyd1151)](https://solved.ac/dlgksdyd1151) <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quence1151&repo=JavaAndAlgorithms&theme=dark&cache_seconds=1800)](https://github.com/Quence1151/JavaAndAlgorithms)
+
+</div>
 
 <!--
 **Quence1151/Quence1151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
