@@ -5,7 +5,7 @@
   
   # hanyong    
 
-</div>
+
    
 ### 🔨 Stack
 <p>
@@ -34,10 +34,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>  
 
+</div>
+
 ### 🌱 github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quence1151&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 Used Language Ratio
 [![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quence1151&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
 
 ### 💻 Algorithm Repository 
