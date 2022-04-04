@@ -14,7 +14,6 @@
 ### 💻 Algorithm Repository 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgksdyd1151)](https://solved.ac/dlgksdyd1151) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quence1151&repo=JavaAndAlgorithms&theme=dark&cache_seconds=1800)](https://github.com/Quence1151/JavaAndAlgorithms)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgksdyd1151)](https://solved.ac/dlgksdyd1151)
  
 ### 🔨 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
