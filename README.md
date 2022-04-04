@@ -3,9 +3,10 @@
 
 <div align="center">
   
-# hanyong    
+  # hanyong    
+
+</div>
    
- 
 ### 🔨 Stack
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -33,7 +34,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>  
 
-### ✍🏻 github
+### 🌱 github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quence1151&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Used Language Ratio
@@ -43,7 +44,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgksdyd1151)](https://solved.ac/dlgksdyd1151) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quence1151&repo=JavaAndAlgorithms&theme=dark&cache_seconds=1800)](https://github.com/Quence1151/JavaAndAlgorithms)
 
-</div>
+
 
 <!--
 **Quence1151/Quence1151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
