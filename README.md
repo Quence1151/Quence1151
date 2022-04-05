@@ -39,7 +39,7 @@
 ### 🌱 github
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quence1151&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hwang-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Quence1151&theme=dark&show_icons=true&title_color=DADADA&icon_color=DADADA&layout=compact)](https://github.com/Hwang-97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quence1151&langs_count=3&show_icons=true&hide_border=true&bg_color=10,b5e48c,52b69a,34a0a4&title_color=fff&text_color=fff&icon_color=5FC397)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Algorithm Repository 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgksdyd1151)](https://solved.ac/dlgksdyd1151) <br/>
