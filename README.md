@@ -3,7 +3,7 @@
 
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=LeeHanYong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20LeeHanYong%20%20&height=300&fontSize=100)
   
 ### 🔨 Stack
 <p>
